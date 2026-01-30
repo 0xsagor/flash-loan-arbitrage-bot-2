@@ -1,0 +1,11 @@
+{
+  "name": "flash-loan-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "Aave V3 Flash Loan Arbitrage Template",
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@openzeppelin/contracts": "^5.0.1",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "hardhat": "^2.19.4"
+  }
+}
